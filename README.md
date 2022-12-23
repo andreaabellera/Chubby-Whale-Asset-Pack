@@ -1,5 +1,4 @@
 # Chubby-Whale-Asset-Pack
 ![Chubby Whale Banner](/_banner_.gif)
 
-This pack comes with a chubby pink whale sprite and some sea tile assets. Absolutely free to use, enjoy!
-Credit https://github.com/andreaabellera/Chubby-Whale-Asset-Pack if used.
+Moved to [new folder under CC Assets and Sprite Packs](https://github.com/andreaabellera/CC-Assets-and-Sprite-Packs/tree/main/Chubby-Whale-Asset-Pack)
